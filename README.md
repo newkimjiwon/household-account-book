@@ -5,7 +5,7 @@
 - 홈: https://newkimjiwon.github.io/household-account-book/
 - 개인정보 처리방침: https://newkimjiwon.github.io/household-account-book/privacy.html
 - 지원: https://newkimjiwon.github.io/household-account-book/support.html
-- 문의: newkimjiwon@gmail.com
+- 문의: totalbudget.support@gmail.com
 
 GitHub Pages는 `main` 브랜치의 루트에서 배포합니다. 정적 HTML/CSS이며 별도 빌드나 외부 라이브러리는 없습니다. `privacy.html`·`support.html`은 한국어와 영어를 함께 제공합니다. 이용약관은 Apple 표준 EULA로 연결합니다.
 
